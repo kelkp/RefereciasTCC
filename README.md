@@ -3,6 +3,7 @@ Referências TCC2
 
 ALEXANDRE, R. F. Modelagem, Simulação da Operação e Otimização Multiobjetivo Aplicadas ao Problema de Despacho de Veículos em Minas a Céu Aberto. Tese de Pós-Graduação—[s.l.] Universidade Federal de Minas Gerais, 2015.
 
+
 ALVARENGA, G. B. Despacho ótimo de caminhões numa mineração de ferro utilizando o algoritmo genético com processamento paralelo. Dissertação de Mestrado—Universidade Federal de Minas Gerais: [s.n.].
 
 AMARAL, M. DO; PINTO, L. R. PLANEJAMENTO DE OPERAÇÕES DE LAVRA EM MINAS A CÉU ABERTO COM ALOCAÇÃO DE EQUIPAMENTOS DE CARGA E DE TRANSPORTE. Anais do XLII SBPO, 2010. 
